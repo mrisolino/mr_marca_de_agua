@@ -8,7 +8,7 @@ import io
 # pip install python-telegram-bot pillow
 
 # Configura el token de tu bot
-TOKEN = "7054117313:AAHajc_CqyWnFvE3jdmN7zUQ33T4gTFZvmk"
+TOKEN = "TOKEN"
 WATERMARK_PATH = "marca.png"  # Ruta de la marca de agua
 
 # Configuración del logging
