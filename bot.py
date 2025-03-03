@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 def add_watermark(image: Image.Image, watermark: Image.Image) -> Image.Image:
     """Añade una marca de agua a la imagen en la esquina inferior derecha con tamaño proporcional."""
     width, height = image.size
-    wm_width = int(width * 0.5)  # La marca de agua será el 20% del ancho de la imagen
+    wm_width = int(width * 0.5)  # La marca de agua será el 50% del ancho de la imagen
     wm_ratio = wm_width / watermark.width
     wm_height = int(watermark.height * wm_ratio)
     # Usar LANCZOS en lugar de ANTIALIAS para versiones recientes de Pillow
