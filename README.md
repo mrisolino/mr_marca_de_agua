@@ -26,6 +26,20 @@ Python 3.10+
 ├── logging (Sistema de registros)
 └── asyncio (Manejo asíncrono)
 ```
+
+## **Diagrama de Flujo del Bot** 🔄
+
+```mermaid
+graph TD
+    A[Usuario envía foto] --> B[Bot recibe imagen]
+    B --> C{Validar formato}
+    C -->|Válido| D[Descargar imagen]
+    C -->|No válido| E[Notificar error]
+    D --> F[Aplicar marca de agua]
+    F --> G[Enviar imagen modificada]
+    G --> H[Registrar proceso]
+```
+
 ---
 
 ## **Instalación y Configuración** ⚙️
