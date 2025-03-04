@@ -85,5 +85,7 @@ Python 3.10+
         -Posición = Esquina inferior derecha
         -Margen = 20px
  
+
 ✨ ¡Listo! Tu bot estará activo y responderá a los comandos automáticamente.
+
 ⚠️ Nota: Para detener el servicio usa Ctrl + C en la termina
