@@ -1,6 +1,6 @@
-# Bot de Telegram para Marcado Automático de Fotos 📸🤖
+# Bot de Telegram para Marca de Agua Automática 📸🤖
 
-Proyecto creado para **automatizar el añadido de marcas de agua** a las fotos que mi madre (guía turística) comparte en sus redes. 
+Proyecto creado para **automatizar el añadido de marcas de agua** a las fotos que mi vieja (guía turística) comparte en sus redes. 
 El bot permite:
 - **Procesamiento de imagenes** mediante Telegram
 - **Uso intuitivo** desde cualquier dispositivo móvil
