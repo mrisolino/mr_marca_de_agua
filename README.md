@@ -52,7 +52,7 @@ graph TD
 ### Pasos:
 1. Clonar repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/watermark-bot.git
+    git clone https://github.com/mrisolino/mr_marca_de_agua.git
     cd watermark-bot
     ```
 
