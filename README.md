@@ -53,7 +53,7 @@ graph TD
 1. Clonar repositorio:
     ```bash
     git clone https://github.com/mrisolino/mr_marca_de_agua.git
-    cd watermark-bot
+    cd mr_marca_de_agua
     ```
 
 2. Instalar dependencias:
